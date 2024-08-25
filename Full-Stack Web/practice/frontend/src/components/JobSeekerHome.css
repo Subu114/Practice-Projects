@@ -1,0 +1,48 @@
+.job-seeker-home {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+.job-seeker-home h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.job-list {
+    list-style: none;
+    padding: 0;
+}
+
+.job-list li {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.job-list h2 {
+    margin-top: 0;
+    color: #007bff;
+}
+
+.job-list p {
+    margin: 5px 0;
+    color: #555;
+}
+
+.job-list button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.job-list button:hover {
+    background-color: #0056b3;
+}
